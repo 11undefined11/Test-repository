@@ -28,6 +28,6 @@ int main() {
     printf("size of unsigned long long: %zu\n", sizeof(unsigned long long));
     printf("size of unsigned long long int: %zu\n", sizeof(unsigned long long int));
     printf("size of double: %zu\n", sizeof(double));
-    printf("size of long double: %zu\n", sizeof(long double));
+    printf("size of long double::::::::::::::::::::::::::::::::::::::::::: very very very long %zu\n", sizeof(long double));
     return 0;
 }
